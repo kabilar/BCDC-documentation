@@ -10,7 +10,7 @@ Our goals for Data Curation at the BCDC are:
 * Building the [BICCN Data Catalog](https://knowledge.brain-map.org/data?fprogram.title=BRAIN%20Initiative%20Cell%20Census%20Network) as a key point of access and valuable resource for users
 * Coordinating with the data archives to maintain an updated inventory of all BICCN specimens for grant reporting purposes
 
-![image](<https://github.com/BICCN/BCDC-documentation/blob/master/BCDC_Ingest.png>)
+![image](https://biccn.github.io/BCDC-documentation/BCDC_Ingest.png)
 
 The BICCN Data Catalog is organized into **Projects** that have one or many associated **Data Collections**. Data Collections
 consist of a collection of **Specimens** that have data assets at the archives. 
@@ -30,7 +30,7 @@ consist of a collection of **Specimens** that have data assets at the archives.
 
 #### Overview of BICCN Data Submission Steps
 
-![image](<https://github.com/BICCN/BCDC-documentation/blob/master/BCDC_Process_Steps.png>)
+![image](https://biccn.github.io/BCDC-documentation/BCDC_Process_Steps.png)
 
 
 #### Relevant links:
@@ -54,7 +54,7 @@ can be made online through the BCDC Project Data Curation tool - for a personali
 contact the BCDC Data Curation team.
 
 #### Relevant links:
-* Project and Data Collection Template and Instructions: [Project Template](https://github.com/BICCN/BCDC-Metadata/blob/master/Templates/project_collection/template_instructions.md)
+* Project/Data Collection Template and Instructions: [Project Template](https://github.com/BICCN/BCDC-Metadata/blob/master/Templates/project_collection/template_instructions.md)
 * Registering a protocol at protocols.io: [Protocol publishing](https://www.protocols.io/view/how-to-create-a-new-protocol-z99f996)
 * Getting an ORCID: [ORCID](https://orcid.org/)
 * NeMO Registration Page: [NeMO Data Submission](https://nemoarchive.org/resources/data-submission)
