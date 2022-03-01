@@ -10,22 +10,18 @@ Our goals for Data Curation at the BCDC are:
 * Building the [BICCN Data Catalog](https://knowledge.brain-map.org/data?fprogram.title=BRAIN%20Initiative%20Cell%20Census%20Network) as a key point of access and valuable resource for users
 * Coordinating with the data archives to maintain an updated database of all BICCN specimens for NIH grant reporting purposes
 
-![Coordination](BCDC_Ingest.png)
+![Coordination](https://github.com/BICCN/BCDC-documentation/blob/master/BCDC_Ingest.png)
 
 The BICCN Data Catalog is organized into **Projects** that have one or many associated **Data Collections**. Data Collections
 consist of a collection of **Specimens** that have data assets at the archives. 
 
 #### Project and Data Collection Metadata
 
-***DEFINE project and data collection, in our terms
-
 - General grant and dataset level metadata, E.g. Text descriptions of datasets, Protocols, Licensing, Contributors, Institutions, Funding
 - This is recorded when registering new projects, so that BCDC can plan for what data we will have coming in
 - Project and Data Collection metadata is displayed on the Project landing pages in the BCDC Data Catalog [SCREENSHOT pointing to relevant fields on Data Catalog page]
 
 #### Specimen Metadata 
-
-***DEFINE specimen (examples by modality)
 
 - This is individual sample and file level metadata, E.g. Species, Genotype, Age, Specimen Type, File Type 
 - These metadata are displayed on Specimen pages in the BCDC Catalog, and are also used for searching/filtering the data
@@ -35,7 +31,7 @@ consist of a collection of **Specimens** that have data assets at the archives.
 
 #### BCDC Metadata Submission Steps
 
-![BCDC Submission Steps](BCDC_Process_Steps.png)
+![BCDC Submission Steps](https://github.com/BICCN/BCDC-documentation/blob/master/BCDC_Process_Steps.png)
 
 
 #### Relevant links:
