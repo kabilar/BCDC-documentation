@@ -10,7 +10,7 @@ Our goals for Data Curation at the BCDC are:
 * Building the [BICCN Data Catalog](https://knowledge.brain-map.org/data?fprogram.title=BRAIN%20Initiative%20Cell%20Census%20Network) as a key point of access and valuable resource for users
 * Coordinating with the data archives to maintain an updated inventory of all BICCN specimens for grant reporting purposes
 
-![Ingest_Coordination](https://github.com/BICCN/BCDC-documentation/blob/master/BCDC_Ingest.png)
+![image](<https://github.com/BICCN/BCDC-documentation/blob/master/BCDC_Ingest.png>)
 
 The BICCN Data Catalog is organized into **Projects** that have one or many associated **Data Collections**. Data Collections
 consist of a collection of **Specimens** that have data assets at the archives. 
@@ -30,7 +30,7 @@ consist of a collection of **Specimens** that have data assets at the archives.
 
 #### Overview of BICCN Data Submission Steps
 
-![BCDC_Submission_Steps](https://github.com/BICCN/BCDC-documentation/blob/master/BCDC_Process_Steps.png)
+![image](<https://github.com/BICCN/BCDC-documentation/blob/master/BCDC_Process_Steps.png>)
 
 
 #### Relevant links:
