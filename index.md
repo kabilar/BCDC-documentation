@@ -8,9 +8,9 @@ This is the page for help documents and resources for BICCN data submitters. Use
 Our goals for Data Curation at the BCDC are:
 
 * Building the [BICCN Data Catalog](https://knowledge.brain-map.org/data?fprogram.title=BRAIN%20Initiative%20Cell%20Census%20Network) as a key point of access and valuable resource for users
-* Coordinating with the data archives to maintain an updated database of all BICCN specimens for NIH grant reporting purposes
+* Coordinating with the data archives to maintain an updated inventory of all BICCN specimens for grant reporting purposes
 
-![Coordination](https://github.com/BICCN/BCDC-documentation/blob/master/BCDC_Ingest.png)
+![BCDC Ingest Coordination](https://github.com/BICCN/BCDC-documentation/blob/master/BCDC_Ingest.png)
 
 The BICCN Data Catalog is organized into **Projects** that have one or many associated **Data Collections**. Data Collections
 consist of a collection of **Specimens** that have data assets at the archives. 
@@ -18,18 +18,17 @@ consist of a collection of **Specimens** that have data assets at the archives.
 #### Project and Data Collection Metadata
 
 - General grant and dataset level metadata, E.g. Text descriptions of datasets, Protocols, Licensing, Contributors, Institutions, Funding
-- This is recorded when registering new projects, so that BCDC can plan for what data we will have coming in
-- Project and Data Collection metadata is displayed on the Project landing pages in the BCDC Data Catalog [SCREENSHOT pointing to relevant fields on Data Catalog page]
+- This is recorded when registering new projects/data collections, so that BCDC can plan for what data we will have coming in
+- Project and Data Collection metadata is displayed on the Project landing pages in the BCDC Data Catalog [SCREENSHOT to Data Catalog page]
 
-#### Specimen Metadata 
+#### Specimen and File Metadata 
 
 - This is individual sample and file level metadata, E.g. Species, Genotype, Age, Specimen Type, File Type 
 - These metadata are displayed on Specimen pages in the BCDC Catalog, and are also used for searching/filtering the data
-- Manifest of files for each specimen at archives, with file metadata including type, PID at archive , URI
-- also main audit of all data collected by BICCN, for reconciliation with archives and reporting outputs to NIH
+- Specimen metadata is used to maintain a census of all data collected by BICCN, for alignment with the archives and reporting research output to NIH
+- A manifest of file metadata indexed by specimen is created by the archives and shared with BCDC, with file metadata including file type, unique ID, URI
 
-
-#### BCDC Metadata Submission Steps
+#### Overview of BICCN Data Submission Steps
 
 ![BCDC Submission Steps](https://github.com/BICCN/BCDC-documentation/blob/master/BCDC_Process_Steps.png)
 
@@ -66,6 +65,14 @@ contact the BCDC Data Curation team.
 
 ### Specimen Registration and Submission Receipts
 
+Specimen metadata is collected on a quarterly basis to align with reporting requirements for the NIH. Specimen metadata is reported to BCDC at the 
+time when data is deposited at the archives. **Specimen metadata includes the name of the data collection that the specimens are added to, so projects
+and data collections must be registered before a specimen inventory can be created and data submitted to archives.** Please contact the BCDC
+Data Curation team when submitting data for the first time for help in completing the inventory template.
+
+Specimen metadata inventories are submitted through our online portal, which is currently under active development. Please contact BCDC to set up an account 
+for the ingest portal. Once metadata has been submitted, uploads can be reviewed and data receipts generated for NIH reporting purposes in the ingest
+portal itself.
 
 
 #### Relevant links:
@@ -75,7 +82,9 @@ contact the BCDC Data Curation team.
 
 ### File Manifests
 
-File manifests for newly added specimens are created by the archives when data is submitted, and shared by the archives with the BCDC team.  
+File manifests for newly added specimens are created by the archives when data is submitted, and shared by the archives with the BCDC Data Curation team.
+The archives collect metadata about files when data is ingested, and BCDC receives that information from the archives, along with critical metadata
+about data publication such as archive-assigned file UIDs and URIs. For more information on file metadata collection, contact the archives.
 
 
 ### Controlled Vocabularies and Ontologies
@@ -84,11 +93,10 @@ As part of our commitment to following community standards in curating BICCN dat
 The list of controlled terms for selected fields are included on both the Project and Specimen metadata templates, and lists of controlled terms including
 definitions are maintained on a separate site here:
 
-#### Controlled vocabularies for BICCN metadata: [BICCN Controlled Vocabularies](https://patrick-lloyd-ray.github.io/controlled-vocabularies.github.io/)
+#### [BICCN Controlled Vocabularies](https://patrick-lloyd-ray.github.io/controlled-vocabularies.github.io/)
 
 
-
-### General Help
+### Where do I go for additional help?
 
 * BCDC Data Curation Team: data.curation@alleninstitute.org  
    * Email for any assistance and/or questions about submission requirements and deadlines
