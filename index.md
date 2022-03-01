@@ -93,12 +93,12 @@ As part of our commitment to following community standards in curating BICCN dat
 The list of controlled terms for selected fields are included on both the Project and Specimen metadata templates, and lists of controlled terms including
 definitions are maintained on a separate site here:
 
-#### [BICCN Controlled Vocabularies](https://patrick-lloyd-ray.github.io/controlled-vocabularies.github.io/)
+* #### [BICCN Controlled Vocabularies](https://patrick-lloyd-ray.github.io/controlled-vocabularies.github.io/)
 
 
 ### Where do I go for additional help?
 
-* BCDC Data Curation Team: data.curation@alleninstitute.org  
+* **BCDC Data Curation Team**: data.curation@alleninstitute.org  
    * Email for any assistance and/or questions about submission requirements and deadlines
-* BCDC Github: https://github.com/BICCN/BCDC-Metadata
+* **BCDC Metadata Github**: https://github.com/BICCN/BCDC-Metadata
    * Templates for submitting project and specimen metadata, archived inventories of all BCDC Specimens
