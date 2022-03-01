@@ -8,7 +8,9 @@ This is the page for help documents and resources for BICCN data submitters. Use
 Our goals for Data Curation at the BCDC are:
 
 * Building the [BICCN Data Catalog](https://knowledge.brain-map.org/data?fprogram.title=BRAIN%20Initiative%20Cell%20Census%20Network) as a key point of access and valuable resource for users
-* Coordinating with the data archives to maintain an updated database of all BICCN specimens for NIH grant reporting purposes.
+* Coordinating with the data archives to maintain an updated database of all BICCN specimens for NIH grant reporting purposes
+
+![Coordination](BCDC_Ingest.png)
 
 The BICCN Data Catalog is organized into **Projects** that have one or many associated **Data Collections**. Data Collections
 consist of a collection of **Specimens** that have data assets at the archives. 
@@ -19,7 +21,7 @@ consist of a collection of **Specimens** that have data assets at the archives.
 
 - General grant and dataset level metadata, E.g. Text descriptions of datasets, Protocols, Licensing, Contributors, Institutions, Funding
 - This is recorded when registering new projects, so that BCDC can plan for what data we will have coming in
-- Project and Data Collection metadata is displayed on the landing pages in the BCDC Data Catalog [SCREENSHOT pointing to relevant fields on Data Catalog page]
+- Project and Data Collection metadata is displayed on the Project landing pages in the BCDC Data Catalog [SCREENSHOT pointing to relevant fields on Data Catalog page]
 
 #### Specimen Metadata 
 
@@ -31,6 +33,11 @@ consist of a collection of **Specimens** that have data assets at the archives.
 - also main audit of all data collected by BICCN, for reconciliation with archives and reporting outputs to NIH
 
 
+#### BCDC Metadata Submission Steps
+
+![BCDC Submission Steps](BCDC_Process_Steps.png)
+
+
 #### Relevant links:
 - BICCN Portal: [https://biccn.org](https://biccn.org)
 - BICCN Data Catalog:  [https://knowledge.brain-map.org/](https://knowledge.brain-map.org/data?fprogram.title=BRAIN%20Initiative%20Cell%20Census%20Network)
@@ -40,13 +47,16 @@ consist of a collection of **Specimens** that have data assets at the archives.
 - BossDB: [https://bossdb.org/](https://bossdb.org/)
 
 
-
 ### Project and Data Collection Registration
 
 Projects and their associated data collections are registered at BCDC at the start of the grant/project. **New data
 collections must be registered with BCDC before submitting data to the relevant archives.** 
 For this, you will need to fill out a project/data collection template and submit this to the BCDC Data Curation team. Contact 
 the Data Curation team to guide you through the process of registering your project and associated data collections.
+
+Changes to Project metadata such as adding new Contributors, editing project or data collection descriptions, or editing contact information, 
+can be made online through the BCDC Project Data Curation tool - for a personalized login and link to the tool,
+contact the BCDC Data Curation team.
 
 #### Relevant links:
 * Project and Data Collection Template and Instructions: [Project Template](https://github.com/BICCN/BCDC-Metadata/blob/master/Templates/project_collection/template_instructions.md)
@@ -61,22 +71,24 @@ the Data Curation team to guide you through the process of registering your proj
 ### Specimen Registration and Submission Receipts
 
 
+
 #### Relevant links:
 * Specimen Metadata Template and Instructions: [Specimens Template](https://github.com/BICCN/BCDC-Metadata/tree/master/Templates/sample_inventory)
-* Link to Specimen Ingest Online Portal: [https://bcdc.ingest.brain.allentech.org/](https://bcdc.ingest.brain.allentech.org/)
+* BCDC Specimen Ingest Portal: [https://bcdc.ingest.brain.allentech.org/](https://bcdc.ingest.brain.allentech.org/)
 
 
 ### File Manifests
 
+File manifests for newly added specimens are created by the archives when data is submitted, and shared by the archives with the BCDC team.  
 
 
 ### Controlled Vocabularies and Ontologies
 
 As part of our commitment to following community standards in curating BICCN data, BCDC uses controlled vocabularies and ontologies for metadata.
+The list of controlled terms for selected fields are included on both the Project and Specimen metadata templates, and lists of controlled terms including
+definitions are maintained on a separate site here:
 
-
-* Controlled vocabularies for BICCN metadata: [BICCN Controlled Vocabularies](https://patrick-lloyd-ray.github.io/controlled-vocabularies.github.io/)
-
+#### Controlled vocabularies for BICCN metadata: [BICCN Controlled Vocabularies](https://patrick-lloyd-ray.github.io/controlled-vocabularies.github.io/)
 
 
 
