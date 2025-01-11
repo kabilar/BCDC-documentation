@@ -59,7 +59,7 @@ contact the BCDC Data Curation team.
 * Getting an ORCID: [ORCID](https://orcid.org/)
 * NeMO Registration Page: [NeMO Data Submission](https://nemoarchive.org/resources/data-submission)
 * BIL Registration Page: [BIL Data Submission](https://www.brainimagelibrary.org/submission.html)
-* DANDI Registration Page: [DANDI Data Submission](https://www.dandiarchive.org/handbook/10_using_dandi/#uploading-a-dandiset)
+* DANDI Registration Page: [DANDI Data Submission](https://docs.dandiarchive.org/10_using_dandi)
 * BossDB Registration Page: [BossDB Data Submission](https://bossdb.org/get-started)
 
 
